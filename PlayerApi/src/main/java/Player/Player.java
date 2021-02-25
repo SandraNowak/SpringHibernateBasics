@@ -8,24 +8,16 @@ import javax.persistence.Id;
 @Entity
 public class Player {
 
-    String name;
-    String surname;
-    int nubmer;
-    Position position;
-    String team;
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    Integer id;
-
-    public Integer getId() {
-        return id;
-    }
-
+    private Integer id;
+    private String name;
+    private String surname;
+    private int nubmer;
+    private Position position;
+    private String team;
+    
     public Player() {
-    }
-
-    public void setId(Integer id) {
-        this.id = id;
     }
 
     public Player(String name, String surname, int nubmer, Position position, String team, Integer id) {
@@ -34,6 +26,14 @@ public class Player {
         this.nubmer = nubmer;
         this.position = position;
         this.team = team;
+        this.id = id;
+    }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
         this.id = id;
     }
 
