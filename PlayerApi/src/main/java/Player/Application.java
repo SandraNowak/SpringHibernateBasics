@@ -1,6 +1,4 @@
-package Player;
-
-import java.util.ArrayList;
+package player;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

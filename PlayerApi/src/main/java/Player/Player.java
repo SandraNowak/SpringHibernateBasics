@@ -1,4 +1,4 @@
-package Player;
+package player;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
