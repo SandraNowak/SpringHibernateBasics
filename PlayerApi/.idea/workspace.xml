@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3edb35b6-e3c6-4eb9-a8fd-6ea12e89a679" name="Default" comment="Added Team controller, service, repository">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Player/controllers/PlayerRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Player/controllers/TeamRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Player/dataAccess/PlayersRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Player/dataAccess/TeamsRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Player/domain/PlayersService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Player/domain/TeamsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/player/controllers/PlayerRestControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/player/dataAccess/PlayersServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Player/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Player/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Player/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Player/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Player/PlayerRestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Player/PlayersRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Player/PlayersService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Player/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Player/Position.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Player/SpringFoxConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Player/SpringFoxConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Player/PlayerRestControllerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Player/PlayersServiceTest.class" beforeDir="false" />
+    <list default="true" id="3edb35b6-e3c6-4eb9-a8fd-6ea12e89a679" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repozytoria.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -110,23 +98,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TeamsService.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TeamsService.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/player/domain/TeamsService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="345">
+              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -218,7 +197,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,110 +205,11 @@
               <item name="ĆwiczeniaKonrad" type="b2602c69:ProjectViewProjectNode" />
               <item name="PlayerApi" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ĆwiczeniaKonrad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlayerApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ĆwiczeniaKonrad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlayerApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ĆwiczeniaKonrad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlayerApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ĆwiczeniaKonrad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlayerApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ĆwiczeniaKonrad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlayerApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ĆwiczeniaKonrad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlayerApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-              <item name="dataAccess" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ĆwiczeniaKonrad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlayerApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ĆwiczeniaKonrad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlayerApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ĆwiczeniaKonrad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlayerApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ĆwiczeniaKonrad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlayerApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ĆwiczeniaKonrad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlayerApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ĆwiczeniaKonrad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlayerApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ĆwiczeniaKonrad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlayerApi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-              <item name="dataAccess" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -457,7 +337,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614283578496</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Team controller, service, repository">
+      <created>1614627431370</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614627431370</updated>
+    </task>
+    <task id="LOCAL-00004" summary="removing target folder">
+      <created>1614627555893</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614627555893</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -482,20 +376,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1875" y="23" width="1875" height="1177" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.021296296" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32962963" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50027275" side_tool="true" weight="0.32962963" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32951444" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49972722" weight="0.32962963" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.43055555" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32962963" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.43055555" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33425927" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27768686" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2804146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -508,7 +404,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32962963" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,26 +439,10 @@
     <MESSAGE value="Change packages for all classes" />
     <MESSAGE value="Added Team entity, clean up" />
     <MESSAGE value="Added Team controller, service, repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Team controller, service, repository" />
+    <MESSAGE value="removing target folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing target folder" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/player/controllers/PlayerRestControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/player/SpringFoxConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/player/Team.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -911,16 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/player/domain/TeamsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/player/controllers/PlayerRestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -951,7 +820,25 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Repozytoria.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1214" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/player/domain/TeamsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
